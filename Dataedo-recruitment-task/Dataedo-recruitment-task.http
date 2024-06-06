@@ -1,0 +1,6 @@
+@Dataedo_recruitment_task_HostAddress = http://localhost:5203
+
+GET {{Dataedo_recruitment_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
